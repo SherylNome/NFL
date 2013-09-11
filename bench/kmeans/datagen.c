@@ -58,5 +58,3 @@ int main(int argc, char **argv)
 
 	return 0;
 }
-
-/* http://www.linuxquestions.org/questions/programming-9/mmap-tutorial-c-c-511265/ */
