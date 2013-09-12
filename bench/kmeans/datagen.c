@@ -45,7 +45,6 @@ int main(int argc, char **argv)
 		fwrite(buf, sizeof(int), row_num * col_num, fp);
 
 		free(buf);
-
 	}
 	if(strcmp(argv[1], "float") == 0) {
 		float low_bound;
