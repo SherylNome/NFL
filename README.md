@@ -1,12 +1,5 @@
-percept
+NFL - No Framework Library
 =======
+TODO
 
-a parallel machine learning library for large data set
-
-regression: logistic regression
-
-classification: neural network, svm
-
-clustering: kmeans
-
-collaborative filtering: svd, lda
+Kmeans, LR, SVM, CF
